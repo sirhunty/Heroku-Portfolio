@@ -1,0 +1,26 @@
+{
+  "name": "heroku-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio deployed using Heroku",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html",
+    "build": "webpack",
+    "heroku-postbuild": "echo Skip build on Heroku"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirhunty/Heroku-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirhunty/Heroku-Portfolio/issues"
+  },
+  "homepage": "https://github.com/sirhunty/Heroku-Portfolio#readme",
+  "dependencies": {
+    "node": "^14.0.0",
+    "sass": "^1.26.5"
+  },
+  "heroku-run-build-script": true
+}
