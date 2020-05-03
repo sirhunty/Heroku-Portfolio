@@ -2,10 +2,8 @@
   "name": "heroku-portfolio",
   "version": "1.0.0",
   "description": "Portfolio deployed using Heroku",
-  "main": "index.html",
   "scripts": {
-    "start": "serve",
-    "heroku-postbuild": "echo Skip build on Heroku"
+    "start": "serve"
   },
   "repository": {
     "type": "git",
@@ -18,9 +16,6 @@
   },
   "homepage": "https://github.com/sirhunty/Heroku-Portfolio#readme",
   "dependencies": {
-    "node": "^14.0.0",
-    "node-serve": "0.0.3",
-    "node-static": "^0.7.11",
     "sass": "^1.26.5",
     "serve": "^10.0.1"
   },
