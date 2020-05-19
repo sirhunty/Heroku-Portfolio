@@ -5,4 +5,4 @@ Deployed Link: https://christopher-matthews.herokuapp.com/
 
 Landing Page:
 
-![Landing Page](https://github.com/HOWBZR/Astro-Project/blob/master/images/Trail-Finder-Landing-Page.png)
+![Landing Page](https://github.com/sirhunty/Heroku-Portfolio/blob/master/images/Portfolio-Screenshot.png)
